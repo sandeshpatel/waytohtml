@@ -5,14 +5,17 @@ a simple pyton script to convert all html pages to pdf in present working direct
 python3
 
 ### How to use-
-```$ python3 waytopdf.py
+```
+$ python3 waytopdf.py
 ```
 ### requirements
-1. pdfkit
+pdfkit
 you can use-
- ```$ pip install pdfkit```
+
+```$ pip install pdfkit```
+
 may require- wkhtmltopdf
- ```$ sudo apt-get install wkhtmltopdf```
+```$ sudo apt-get install wkhtmltopdf```
 
 ### licence - MIT
 
